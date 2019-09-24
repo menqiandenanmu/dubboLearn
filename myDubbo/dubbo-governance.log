@@ -1,0 +1,44 @@
+2019-09-24 10:31:34.708  INFO 10008 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8004 (http)
+2019-09-24 10:31:34.986  INFO 10008 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2366 ms
+2019-09-24 10:31:36.082  INFO 10008 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-09-24 10:31:36.272  INFO 10008 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-24 10:31:36.416  INFO 10008 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2019-09-24 10:31:36.508  INFO 10008 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2019-09-24 10:31:36.533  INFO 10008 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2019-09-24 10:31:36.630  INFO 10008 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2019-09-24 10:31:36.870  INFO 10008 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: disableRouteUsingPUT_1
+2019-09-24 10:31:36.871  INFO 10008 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: enableRouteUsingPUT_1
+2019-09-24 10:31:36.921  INFO 10008 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: searchServiceUsingGET_1
+2019-09-24 10:31:36.967  INFO 10008 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: createRuleUsingPOST_1
+2019-09-24 10:31:36.969  INFO 10008 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: deleteRouteUsingDELETE_1
+2019-09-24 10:31:36.973  INFO 10008 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: detailRouteUsingGET_1
+2019-09-24 10:31:36.974  INFO 10008 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: disableRouteUsingPUT_2
+2019-09-24 10:31:36.975  INFO 10008 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: enableRouteUsingPUT_2
+2019-09-24 10:31:36.977  INFO 10008 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: searchRoutesUsingGET_1
+2019-09-24 10:31:36.978  INFO 10008 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: updateRuleUsingPUT_1
+2019-09-24 10:31:37.038  INFO 10008 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8004 (http) with context path ''
+2019-09-24 10:32:06.382  INFO 10008 --- [http-nio-8004-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-24 10:32:06.392  INFO 10008 --- [http-nio-8004-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2019-09-24 10:44:52.328  INFO 10008 --- [Thread-13] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-24 10:55:42.291  INFO 6624 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8004 (http)
+2019-09-24 10:55:42.555  INFO 6624 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2634 ms
+2019-09-24 10:55:43.588  INFO 6624 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [public org.springframework.http.ResponseEntity<springfox.documentation.spring.web.json.Json> springfox.documentation.swagger2.web.Swagger2Controller.getDocumentation(java.lang.String,javax.servlet.http.HttpServletRequest)]
+2019-09-24 10:55:43.749  INFO 6624 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-24 10:55:43.865  INFO 6624 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [public/index.html]
+2019-09-24 10:55:43.964  INFO 6624 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2019-09-24 10:55:43.993  INFO 6624 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2019-09-24 10:55:44.090  INFO 6624 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2019-09-24 10:55:44.406  INFO 6624 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: disableRouteUsingPUT_1
+2019-09-24 10:55:44.408  INFO 6624 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: enableRouteUsingPUT_1
+2019-09-24 10:55:44.460  INFO 6624 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: searchServiceUsingGET_1
+2019-09-24 10:55:44.506  INFO 6624 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: createRuleUsingPOST_1
+2019-09-24 10:55:44.507  INFO 6624 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: deleteRouteUsingDELETE_1
+2019-09-24 10:55:44.510  INFO 6624 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: detailRouteUsingGET_1
+2019-09-24 10:55:44.511  INFO 6624 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: disableRouteUsingPUT_2
+2019-09-24 10:55:44.512  INFO 6624 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: enableRouteUsingPUT_2
+2019-09-24 10:55:44.513  INFO 6624 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: searchRoutesUsingGET_1
+2019-09-24 10:55:44.515  INFO 6624 --- [main] .d.s.w.r.o.CachingOperationNameGenerator : Generating unique operation named: updateRuleUsingPUT_1
+2019-09-24 10:55:44.580  INFO 6624 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8004 (http) with context path ''
+2019-09-24 10:55:54.184  INFO 6624 --- [http-nio-8004-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2019-09-24 10:55:54.201  INFO 6624 --- [http-nio-8004-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 17 ms
+2019-09-24 17:08:19.451  INFO 6624 --- [Thread-16] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

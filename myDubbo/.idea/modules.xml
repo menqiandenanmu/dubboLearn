@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/customer/customer.iml" filepath="$PROJECT_DIR$/customer/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-admin-develop/dubbo-admin-develop/dubbo-admin.iml" filepath="$PROJECT_DIR$/../dubbo-admin-develop/dubbo-admin-develop/dubbo-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-admin-develop/dubbo-admin-develop/dubbo-admin-distribution/dubbo-admin-distribution.iml" filepath="$PROJECT_DIR$/../dubbo-admin-develop/dubbo-admin-develop/dubbo-admin-distribution/dubbo-admin-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-admin-develop/dubbo-admin-develop/dubbo-admin-server/dubbo-admin-server.iml" filepath="$PROJECT_DIR$/../dubbo-admin-develop/dubbo-admin-develop/dubbo-admin-server/dubbo-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-admin-develop/dubbo-admin-develop/dubbo-admin-ui/dubbo-admin-ui.iml" filepath="$PROJECT_DIR$/../dubbo-admin-develop/dubbo-admin-develop/dubbo-admin-ui/dubbo-admin-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myDubbo.iml" filepath="$PROJECT_DIR$/myDubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provide/provide.iml" filepath="$PROJECT_DIR$/provide/provide.iml" />
+    </modules>
+  </component>
+</project>
